@@ -6,7 +6,7 @@ the x-coordinate should be separated by a space from the y-coordinate.
 The coordinates of the points do not have to be integers.
 The program, after finishing its operation, writes out in the terminal the points forming the convex hull.
 
-Example input data:
+Example input data:  
  8  
  2 3  
  1 0  
